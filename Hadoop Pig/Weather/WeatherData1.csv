@@ -1,0 +1,7 @@
+PLACE,TEMPERATURE,HUMIDITY,OUTLOOK,WINDY,PLAY
+Kolkata,35.4,79.8,Sunny,TRUE,YES
+Delhi,28.4,87.8,Rainy,TRUE,NO
+Hydrabad,35.4,79.8,Cloudy,FALSE,YES
+Kochi,32.9,79.8,Foggy,TRUE,NO
+Chennai,35.4,67.8,Sunny,TRUE,NO
+Agartala,33.4,86.8,Sunny,TRUE,YES

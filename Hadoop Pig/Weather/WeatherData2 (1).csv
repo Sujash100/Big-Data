@@ -1,0 +1,7 @@
+PLACE,TEMPERATURE,HUMIDITY,OUTLOOK,WINDY,PLAY
+Alahabad,26.4,79.8,Sunny,TRUE,YES
+Jammu,28.4,87.8,Rainy,FALSE,NO
+Kanpur,35.4,79.8,Cloudy,FALSE,YES
+Mumbai,32.9,79.8,Foggy,TRUE,NO
+Dibrughar,24.4,78.8,Rainy,TRUE,NO
+Gangtok,9.4,89.8,Sunny,TRUE,YES
